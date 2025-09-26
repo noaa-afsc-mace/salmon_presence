@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Lurbur"
+    given-names: "Moses"
+    orcid: "https://orcid.org/0009-0000-0837-8057"
+  - family-names: "Wilson"
+    given-names: "Katherine"
+    orcid: "https://orcid.org/0009-0001-8792-6919"
+title: "Salmon Presence Detection"
+version: 1.0
+date-released: 2025-09-19
+url: "https://github.com/KatherineWilson-NOAA/salmon_presence"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Wilson"
+      given-names: "Katherine"
+      orcid: "https://orcid.org/0009-0001-8792-6919"
+    - family-names: "Lurbur"
+      given-names: "Moses"
+      orcid: "https://orcid.org/0009-0000-0837-8057"
+    - family-names: "Yochum"
+      given-names: "Noëlle"
+      orcid: "https://orcid.org/0000-0002-2003-6102"
+  doi: "10.1093/icesjms/fsaf168"
+  journal: "ICES Journal of Marine Science"
+  title: "Automated fish detection in videos to support commercial fishing sustainability and innovation in the Alaska walleye pollock (Gadus chalcogrammus) trawl fishery"
+  year: 2025

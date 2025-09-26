@@ -1,0 +1,6 @@
+quantifying_data/presence_data/all_presence_data/T18_REC_0002.csv
+quantifying_data/presence_data/all_presence_data/T18_REC_0004.csv
+quantifying_data/presence_data/all_presence_data/T16_REC_0013.csv
+quantifying_data/presence_data/all_presence_data/T16_REC_0003.csv
+quantifying_data/presence_data/all_presence_data/T20_REC_0005.csv
+quantifying_data/presence_data/all_presence_data/T20_REC_0002.csv

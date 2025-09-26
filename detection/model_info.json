@@ -1,0 +1,27 @@
+{
+    "yolo_11_best_clips": {
+        "name": "yolo_11_best_clips",
+        "label_map_path": null,
+        "saved_model_path": "detection/detectors/yolo_11_best_clips/RACE_MACE_salmon_pollock_object_detection_models_yolo11_best_1.pt",
+        "model_family": "yolo",
+        "batch_detection": true,
+        "classes": [
+            "Pollock",
+            "Salmon"
+        ],
+        "color_mode": "bgr",
+        "confidence_threshold": 0.0
+    },
+    "yolo_11_salmon-only_best_clips": {
+        "name": "yolo_11_salmon-only_best_clips",
+        "label_map_path": null,
+        "saved_model_path": "detection/detectors/yolo_11_salmon-only_best_clips/RACE_MACE_salmon_pollock_object_detection_models_yolo11_salmon-only_1.pt",
+        "model_family": "yolo",
+        "batch_detection": true,
+        "classes": [
+            "Salmon"
+        ],
+        "color_mode": "bgr",
+        "confidence_threshold": 0.0
+    }
+}

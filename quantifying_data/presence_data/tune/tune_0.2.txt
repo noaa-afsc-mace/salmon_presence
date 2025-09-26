@@ -1,0 +1,11 @@
+quantifying_data/presence_data/all_presence_data/T18_REC_0012.csv
+quantifying_data/presence_data/all_presence_data/T18_REC_0009.csv
+quantifying_data/presence_data/all_presence_data/T18_REC_0004.csv
+quantifying_data/presence_data/all_presence_data/T16_REC_0014.csv
+quantifying_data/presence_data/all_presence_data/T16_REC_0013.csv
+quantifying_data/presence_data/all_presence_data/T16_REC_0006.csv
+quantifying_data/presence_data/all_presence_data/T16_REC_0017.csv
+quantifying_data/presence_data/all_presence_data/T20_REC_0018.csv
+quantifying_data/presence_data/all_presence_data/T20_REC_0010.csv
+quantifying_data/presence_data/all_presence_data/T20_REC_0003.csv
+quantifying_data/presence_data/all_presence_data/T20_REC_0017.csv
